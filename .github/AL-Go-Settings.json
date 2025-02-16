@@ -1,4 +1,5 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/nab-al-go-poc/AL-Go-PTE@main"
+  "templateUrl": "https://github.com/nab-al-go-poc/AL-Go-PTE@main",
+  "templateSha": "3c16f3a580992e07b836c3f354f331a77b422dd1"
 }
